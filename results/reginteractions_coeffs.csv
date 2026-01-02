@@ -1,0 +1,10 @@
+feature,coef_standardized
+logGDP_x_SocialSupport,0.7486805067785166
+Explained by: Freedom to make life choices,0.32197808738738753
+Explained by: Log GDP per capita,-0.2760457468467654
+Explained by: Healthy life expectancy,0.25280028787020115
+HighCorruption,-0.17603525137865694
+Explained by: Social support,0.14202041000783572
+logGDP_x_HighCorr,0.0843186212301478
+Explained by: Generosity,0.0361105281226544
+Explained by: Perceptions of corruption,0.02530424501075705

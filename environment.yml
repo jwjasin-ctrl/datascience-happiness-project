@@ -1,0 +1,9 @@
+name: happiness-project
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - jupyter
