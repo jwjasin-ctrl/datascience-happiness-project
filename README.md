@@ -4,7 +4,7 @@ Author: Julia Jasinska
 Course: Data Science & Advanced Programming
 
 ## Run without conda (recommended fallback)
-```md
+
 ### macOS / Linux
 ```bash
 git clone https://github.com/jwjasin-ctrl/datascience-happiness-project.git
@@ -30,7 +30,7 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 
 python run_all.py
-
+```bash
 
 ## 1. Project overview
 
