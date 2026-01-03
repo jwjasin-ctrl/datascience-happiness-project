@@ -58,7 +58,7 @@ All code is written in Python as part of the Data Science & Advanced Programming
 
 
 ## 2. Repository structure
-
+'''text
 datascience-happiness-project/
 ├── README.md                         # Setup and usage instructions
 ├── environment.yml                   # Conda dependencies 
@@ -109,3 +109,4 @@ datascience-happiness-project/
     ├── test_best_k.py                   # confirm K=3 has best silhouette among {3,4,5,6}
     ├── test_kmeans_labels.py            # Check that there are exactly 3 distinct clusters in the baseline solution
     └── test_pca_var.py                  # check first two PCs explain ≥ 60% variance
+'''
