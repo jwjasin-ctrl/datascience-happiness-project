@@ -58,7 +58,7 @@ All code is written in Python as part of the Data Science & Advanced Programming
 
 
 ## 2. Repository structure
-` ```text `
+```bash
 datascience-happiness-project/
 ├── README.md                         # Setup and usage instructions
 ├── environment.yml                   # Conda dependencies 
