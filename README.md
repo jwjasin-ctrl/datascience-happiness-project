@@ -3,14 +3,28 @@
 Author: Julia Jasinska
 Course: Data Science & Advanced Programming
 
-
 ## Run without conda (recommended fallback)
-
+```md
+### macOS / Linux
+```bash
 git clone https://github.com/jwjasin-ctrl/datascience-happiness-project.git
 cd datascience-happiness-project
 
 python3 -m venv .venv
 source .venv/bin/activate
+
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+
+python run_all.py
+
+### Windows 
+
+git clone https://github.com/jwjasin-ctrl/datascience-happiness-project.git
+cd datascience-happiness-project
+
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
 
 python -m pip install --upgrade pip
 pip install -r requirements.txt
