@@ -4,6 +4,20 @@ Author: Julia Jasinska
 Course: Data Science & Advanced Programming
 
 
+## Run without conda (recommended fallback)
+
+git clone https://github.com/jwjasin-ctrl/datascience-happiness-project.git
+cd datascience-happiness-project
+
+python3 -m venv .venv
+source .venv/bin/activate
+
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+
+python run_all.py
+
+
 ## 1. Project overview
 
 This project uses the World Happiness Report 2024 dataset to identify groups of countries
