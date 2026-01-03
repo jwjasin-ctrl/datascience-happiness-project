@@ -19,20 +19,6 @@ pip install -r requirements.txt
 python run_all.py
 ```
 
-### Windows 
-```bash
-git clone https://github.com/jwjasin-ctrl/datascience-happiness-project.git
-cd datascience-happiness-project
-
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-
-python run_all.py
-```
-
 #### 1. Project Overview
 
 This project uses the World Happiness Report 2024 dataset to identify groups of countries
