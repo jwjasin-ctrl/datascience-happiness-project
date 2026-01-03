@@ -17,7 +17,8 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 
 python run_all.py
-```bash
+```
+
 ### Windows 
 ```bash
 git clone https://github.com/jwjasin-ctrl/datascience-happiness-project.git
@@ -30,9 +31,9 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 
 python run_all.py
-```bash
+```
 
-## 1. Project overview
+#### 1. Project Overview
 
 This project uses the World Happiness Report 2024 dataset to identify groups of countries
 with similar drivers of happiness. I focus on six explanatory factors:
