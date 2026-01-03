@@ -49,6 +49,7 @@ datascience-happiness-project/
 ├── README.md                         # Setup and usage instructions
 ├── requirements.txt                  # Pip dependencies (recommended) 
 ├── environment.yml                   # Conda dependencies (optional)
+├── report.pdf                        # Report pdf
 ├── run_all.py                        # executes the full pipeline
 ├── data/
 │   └── world-happiness-2024.csv      # raw input data
