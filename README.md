@@ -47,8 +47,9 @@ All code is written in Python as part of the Data Science & Advanced Programming
 ```text
 datascience-happiness-project/
 ├── README.md                         # Setup and usage instructions
-├── environment.yml                   # Conda dependencies 
-├── run_all.py                        # small runner that executes the full pipeline
+├── requirements.txt                  # Pip dependencies (recommended) 
+├── environment.yml                   # Conda dependencies (optional)
+├── run_all.py                        # executes the full pipeline
 ├── data/
 │   └── world-happiness-2024.csv      # raw input data
 ├── results/
